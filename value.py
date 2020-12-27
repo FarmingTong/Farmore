@@ -1,0 +1,3 @@
+
+print("v0.0.0-20200519095259-45381a356b0d/go.mod h1:fCPnMwKlt/5MT9V7w4MbxKi+PjTVIbBcYztBDG08z74=")
+
